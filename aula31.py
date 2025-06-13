@@ -10,4 +10,4 @@
 
 import aula31_m
 
-print('Este módulo se chama', __name__)
+print(aula31_m.nome)
